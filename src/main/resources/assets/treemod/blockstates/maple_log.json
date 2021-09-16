@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "treemod:block/maple_log"
+    },
+    "axis=z": {
+      "model": "treemod:block/maple_log",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "treemod:block/maple_log",
+      "x": 90,
+      "y": 90
+    }
+  }
+}
